@@ -6,6 +6,17 @@
 [그림으로 배우는 HTTP & Network Basic]은 HTTP와 관련된 내용을 중심으로 웹과 인터넷 데이터 통신의 기초를 다룬 책입니다. 초반에는 인터넷 역사와 주요 프로토콜(TCP/IP 등)에 대해 설명하고, 중반부에서는 HTTP에 대해 상세히 다룹니다. 후반부에서는 HTTPS와 인증 같은 HTTP에 기능을 추가한 프로토콜들에 대해 소개합니다.  
 <br>
 
+## 안녕하세요 :)
+2025년 02월 04일(화)부터 개설되어 시작된, 개발 서적 - 그림으로 배우는 Http&Network Basic 스터디 그룹입니다.  
+<br>
+
+## 협력자
+| 남궁혁                                  | 이수정                                  | 임소연                                 | 박지수                                  |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| songbyhyeok                                  | pasongsj                                  | cococoii                                 | JisuPark-dev                                  |
+| [github.com/songbyhyeok](https://github.com/songbyhyeok)  | [github.com/pasongsj](https://github.com/pasongsj)  | [github.com/cococoii](https://github.com/cococoii)  | [github.com/JisuPark-dev](https://github.com/JisuPark-dev)  |
+<br>
+
 ## 발표자료
 ### 1회차
 - [이수정](https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/blob/c94af6135fee5bd41e2634a414e08c7df1773327/1%ED%9A%8C%EC%B0%A8/20250205_%EC%9D%B4%EC%88%98%EC%A0%95.md)
