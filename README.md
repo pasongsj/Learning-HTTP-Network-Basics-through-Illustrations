@@ -35,6 +35,10 @@
 - [박지수](https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/blob/c94af6135fee5bd41e2634a414e08c7df1773327/4%ED%9A%8C%EC%B0%A8/20250211_%EB%B0%95%EC%A7%80%EC%88%98.md)
 - [남궁혁](https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/blob/c94af6135fee5bd41e2634a414e08c7df1773327/4%ED%9A%8C%EC%B0%A8/20250212_%EB%82%A8%EA%B6%81%ED%98%81.md)
 
+### 5회차
+- [이수정](https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/blob/d441241bf92ab0d2acbc6ad63a2af960b327be37/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8/20250213_%EC%9D%B4%EC%88%98%EC%A0%95.md)
+- [남궁혁](https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/blob/d441241bf92ab0d2acbc6ad63a2af960b327be37/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8/20250213_%EB%82%A8%EA%B6%81%ED%98%81.md)
+
 <br>
 
 ## 운영
