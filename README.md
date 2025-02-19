@@ -42,7 +42,7 @@
  <tr>
     <td>25/02/12(수)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8" target="_blank"><b>4회차</b></td>
-    <td>박지수<br>남궁혁</td>
+    <td>남궁혁</td>
   </tr>
   <tr>
     <td>25/02/13(목)
