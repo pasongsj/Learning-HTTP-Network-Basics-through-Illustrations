@@ -26,38 +26,43 @@
   </tr>
   <tr>
     <td>25/02/05(수)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8" target="_blank"><b>1회차</b></a></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8" target="_blank"><b>1회차</b></a></td>
     <td>이수정</td>    
   </tr>
   <tr>
     <td>25/02/09(일)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8" target="_blank"><b>2회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8" target="_blank"><b>2회차</b></td>
     <td>이수정<br>남궁혁</td>
   </tr>
   <tr>
     <td>25/02/11(화)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8" target="_blank"><b>3회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8" target="_blank"><b>3회차</b></td>
     <td>박지수<br>이수정<br>임소연<br>남궁혁</td>
   </tr>
  <tr>
     <td>25/02/12(수)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8" target="_blank"><b>4회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8" target="_blank"><b>4회차</b></td>
     <td>박지수<br>남궁혁</td>
   </tr>
- <tr>
+  <tr>
     <td>25/02/13(목)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8" target="_blank"><b>5회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8" target="_blank"><b>5회차</b></td>
     <td>이수정<br>남궁혁</td>
   </tr>
- <tr>
+  <tr>
     <td>25/02/16(일)
-    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/5275d72be313a34a67234536b41132618c01454e/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8" target="_blank"><b>6회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8" target="_blank"><b>6회차</b></td>
     <td>임소연</td>
   </tr>
- <tr>
+  <tr>
     <td>25/02/18(화)
-    <td><a href="" target="_blank"><b>7회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8" target="_blank"><b>7회차</b></td>
     <td>박지수</td>
+  </tr>
+  <tr>
+    <td>25/02/19(수)
+    <td><a href="" target="_blank"><b>8회차</b></td>
+    <td>남궁혁</td>
   </tr>
 </table>
 
@@ -89,6 +94,7 @@
 | 25/02/13(목) | 6회 | 4장 결과를 전달하는 HTTP 상태 코드 | 4.1 상태 코드는 서버로부터 리퀘스트 결과를 전달한다<br>4.2 2xx 성공(Success)<br>4.3 3xx 리다이렉트(Redirection)<br>4.4 4xx 클라이언트 에러(Client Error)<br>4.5 5xx 서버 에러(Server Error) | 28% |
 | 25/02/16(일) | 7회 | 5장 HTTP와 연계하는 웹 서버 | 5.1  1대로 멀티 도메인을 가능하게 하는 가상 호스트<br>5.2 통신을 중계하는 프로그램 : 프록시, 게이트웨이, 터널<br>5.3 리소스를 보관하는 캐시 | 32% |
 | 25/02/18(화) | 8회 | 제6장 HTTP 헤더 | 6.1 HTTP 메시지 헤더<br>6.2 HTTP 헤더 필드 | 35% |
+| 25/02/19(수) | 9회 | 제6장 HTTP 헤더 | 6.3 HTTP/1.1 일반 헤더 필드 | 42% |
 
 
 
