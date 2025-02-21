@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td>25/02/19(수)
-    <td><a href="" target="_blank"><b>8회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/77e582b808d46f507e86af4f305e724855f03316/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8" target="_blank"><b>8회차</b></td>
     <td>남궁혁</td>
   </tr>
 </table>
