@@ -64,10 +64,15 @@
     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/77e582b808d46f507e86af4f305e724855f03316/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8" target="_blank"><b>8회차</b></td>
     <td>남궁혁</td>
   </tr>
-     <tr>
+  <tr>
     <td>25/02/21(금)
-    <td><a href="" target="_blank"><b>9회차</b></td>
+    <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/ef41f27d33cb3c6552eeca6b32fe3811eae1426e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8" target="_blank"><b>9회차</b></td>
     <td>이수정</td>
+  </tr>
+  <tr>
+    <td>25/02/23(일)
+    <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/ef41f27d33cb3c6552eeca6b32fe3811eae1426e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8" target="_blank"><b>10회차</b></td>
+    <td>임소연</td>
   </tr>
 </table>
 <br>
@@ -102,5 +107,6 @@
 | 25/02/18(화) | 8회 | 제6장 HTTP 헤더 | 6.1 HTTP 메시지 헤더<br>6.2 HTTP 헤더 필드 | 35% |
 | 25/02/19(수) | 9회 | 제6장 HTTP 헤더 | 6.3 HTTP/1.1 일반 헤더 필드 | 42% |
 | 25/02/21(금) | 10회 | 제6장 HTTP 헤더 | 6.4 리퀘스트 헤더 필드 - 6.4.1 ~ 6.4.8 | 45% |
+| 25/02/23(일) | 11회 | 제6장 HTTP 헤더 | 6.4 리퀘스트 헤더 필드 - 6.4.9 ~ 6.4.19 | 49% |
 
 
