@@ -24,66 +24,85 @@
     <th>회차 발표</th>
     <th>발표자</th>    
   </tr>
+ 
   <tr>
     <td>25/02/05(수)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8" target="_blank"><b>1회차</b></a></td>
     <td>이수정</td>    
   </tr>
+ 
   <tr>
     <td>25/02/09(일)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/2%ED%9A%8C%EC%B0%A8" target="_blank"><b>2회차</b></td>
     <td>이수정<br>남궁혁</td>
   </tr>
+     
   <tr>
     <td>25/02/11(화)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8" target="_blank"><b>3회차</b></td>
     <td>박지수<br>이수정<br>임소연<br>남궁혁</td>
   </tr>
+     
  <tr>
     <td>25/02/12(수)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/4%ED%9A%8C%EC%B0%A8" target="_blank"><b>4회차</b></td>
     <td>남궁혁</td>
   </tr>
+     
   <tr>
     <td>25/02/13(목)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8" target="_blank"><b>5회차</b></td>
     <td>이수정<br>남궁혁</td>
   </tr>
+     
   <tr>
     <td>25/02/16(일)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/6%ED%9A%8C%EC%B0%A8" target="_blank"><b>6회차</b></td>
     <td>임소연</td>
   </tr>
+     
   <tr>
     <td>25/02/18(화)
     <td><a href="https://github.com/songbyhyeok/Learning-HTTP-Network-Basics-through-Illustrations/tree/991b1b3218259048d43a0b6600af1bb3a95ce3e3/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/7%ED%9A%8C%EC%B0%A8" target="_blank"><b>7회차</b></td>
     <td>박지수</td>
   </tr>
+     
   <tr>
     <td>25/02/19(수)
     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/77e582b808d46f507e86af4f305e724855f03316/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/8%ED%9A%8C%EC%B0%A8" target="_blank"><b>8회차</b></td>
     <td>남궁혁</td>
   </tr>
+     
   <tr>
     <td>25/02/21(금)
     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/ef41f27d33cb3c6552eeca6b32fe3811eae1426e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/9%ED%9A%8C%EC%B0%A8" target="_blank"><b>9회차</b></td>
     <td>이수정</td>
   </tr>
+     
   <tr>
     <td>25/02/23(일)
     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/ef41f27d33cb3c6552eeca6b32fe3811eae1426e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/10%ED%9A%8C%EC%B0%A8" target="_blank"><b>10회차</b></td>
     <td>임소연</td>
   </tr>
+     
     <tr>
      <td>25/02/25(화)
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/77092d09ed712c635c5b4d07fbc99e906ffa92d7/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8" target="_blank"><b>11회차</b></td>
     <td>이수정</td>
   </tr>
+      
       <tr>
      <td>25/02/26(수)
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/f0d5b7311d37f692730ea99b9bc3174e8c434a2e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/12%ED%9A%8C%EC%B0%A8" target="_blank"><b>12회차</b></td>
     <td>박지수</td>
   </tr>
+
+<tr>
+     <td>25/02/27(목)
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/330a61b1bfafb8b3962c510db4325dc78e89b3ea/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/13%ED%9A%8C%EC%B0%A8" target="_blank"><b>13회차</b></td>
+    <td>남궁혁</td>
+  </tr>
+      
 </table>
 <br>
 
@@ -120,5 +139,6 @@
 | 25/02/23(일) | 11회 | 제6장 HTTP 헤더 | 6.4 리퀘스트 헤더 필드 - 6.4.9 ~ 6.4.19 | 49% |
 | 25/02/25(화) | 12회 | 제6장 HTTP 헤더 | 6.5 리스폰스 헤더 필드 - 6.5.1 ~ 6.5.9 | 52% |
 | 25/02/26(수) | 13회 | 제6장 HTTP 헤더 | 6.6 엔티티 헤더 필드 - 6.6.1 ~ 6.6.10 | 54% |
+| 25/02/27(목) | 14회 | 제6장 HTTP 헤더 | | |
 
 
