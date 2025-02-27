@@ -85,22 +85,22 @@
     <td>임소연</td>
   </tr>
      
-    <tr>
+  <tr>
      <td>25/02/25(화)
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/77092d09ed712c635c5b4d07fbc99e906ffa92d7/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/11%ED%9A%8C%EC%B0%A8" target="_blank"><b>11회차</b></td>
-    <td>이수정</td>
+     <td>이수정</td>
   </tr>
       
-      <tr>
+  <tr>
      <td>25/02/26(수)
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/f0d5b7311d37f692730ea99b9bc3174e8c434a2e/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/12%ED%9A%8C%EC%B0%A8" target="_blank"><b>12회차</b></td>
-    <td>박지수</td>
+     <td>박지수</td>
   </tr>
 
-<tr>
+  <tr>
      <td>25/02/27(목)
-     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/330a61b1bfafb8b3962c510db4325dc78e89b3ea/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/13%ED%9A%8C%EC%B0%A8" target="_blank"><b>13회차</b></td>
-    <td>남궁혁</td>
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/ce2295511e9890563e63cbbd17d7895fac5374cb/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/13%ED%9A%8C%EC%B0%A8" target="_blank"><b>13회차</b></td>
+     <td>남궁혁</td>
   </tr>
       
 </table>
