@@ -105,8 +105,14 @@
 
   <tr>
      <td>25/03/02(일)
-     <td><a href="" target="_blank"><b>14회차</b></td>
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/bf329826573e84bcdb9d6a8ebc899f96d87c2e19/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/14%ED%9A%8C%EC%B0%A8" target="_blank"><b>14회차</b></td>
      <td>임소연</td>
+  </tr>
+
+  <tr>
+     <td>25/03/04(화)
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/bf329826573e84bcdb9d6a8ebc899f96d87c2e19/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/15%ED%9A%8C%EC%B0%A8" target="_blank"><b>15회차</b></td>
+     <td>박지수</td>
   </tr>
       
 </table>
@@ -147,5 +153,5 @@
 | 25/02/26(수) | 13회 | 제6장 HTTP 헤더 | 6.6 엔티티 헤더 필드 - 6.6.1 ~ 6.6.10 | 54% |
 | 25/02/27(목) | 14회 | 제6장 HTTP 헤더 | 6.7 쿠키를 위한 헤더 필드<br>6.8 그 이외의 헤더 필드 | 58% |
 | 25/03/02(일) | 15회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.1 HTTP의 약점 - 7.1.1 ~ 7.1.3 | 61% |
-
+| 25/03/04(화) | 16회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.2 HTTP + 암호화 + 인증 + 완전성 보호 = HTTPS - 7.2.1 ~ 7.2.5 | 67% |
 
