@@ -114,6 +114,12 @@
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/bf329826573e84bcdb9d6a8ebc899f96d87c2e19/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/15%ED%9A%8C%EC%B0%A8" target="_blank"><b>15회차</b></td>
      <td>박지수</td>
   </tr>
+
+  <tr>
+     <td>25/03/05(수)
+     <td><a href="" target="_blank"><b>16회차</b></td>
+     <td>남궁혁</td>
+  </tr>
       
 </table>
 <br>
@@ -154,4 +160,5 @@
 | 25/02/27(목) | 14회 | 제6장 HTTP 헤더 | 6.7 쿠키를 위한 헤더 필드<br>6.8 그 이외의 헤더 필드 | 58% |
 | 25/03/02(일) | 15회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.1 HTTP의 약점 - 7.1.1 ~ 7.1.3 | 61% |
 | 25/03/04(화) | 16회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.2 HTTP + 암호화 + 인증 + 완전성 보호 = HTTPS - 7.2.1 ~ 7.2.5 | 67% |
+| 25/03/05(수) | 17회 | 제8장 누가 액세스하고 있는지를 확인하는 인증 | 8.1 인증이란?<br>8.2 BASIC 인증<br>8.3 DIGEST 인증<br>8.4 SSL 클라이언트 인증<br>8.5 폼 베이스 인증 | 72% |
 
