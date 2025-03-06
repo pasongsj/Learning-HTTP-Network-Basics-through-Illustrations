@@ -120,6 +120,12 @@
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/5fb7d1cb85a809da41c7b24470d77781ddfe27df/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/16%ED%9A%8C%EC%B0%A8" target="_blank"><b>16회차</b></td>
      <td>남궁혁</td>
   </tr>
+
+  <tr>
+     <td>25/03/06(목)
+     <td><a href="" target="_blank"><b>17회차</b></td>
+     <td>이수정</td>
+  </tr>
       
 </table>
 <br>
@@ -161,4 +167,5 @@
 | 25/03/02(일) | 15회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.1 HTTP의 약점 - 7.1.1 ~ 7.1.3 | 61% |
 | 25/03/04(화) | 16회 | 제7장 웹을 안전하게 지켜주는 HTTPS | 7.2 HTTP + 암호화 + 인증 + 완전성 보호 = HTTPS - 7.2.1 ~ 7.2.5 | 67% |
 | 25/03/05(수) | 17회 | 제8장 누가 액세스하고 있는지를 확인하는 인증 | 8.1 인증이란?<br>8.2 BASIC 인증<br>8.3 DIGEST 인증<br>8.4 SSL 클라이언트 인증<br>8.5 폼 베이스 인증 | 72% |
+| 25/03/05(수) | 17회 | 제9장 HTTP에 기능을 추가한 프로토콜 | 9.1 HTTP를 기본으로 하는 프로토콜<br>9.2 HTTP의 병목 현상을 해소하는 SPDY<br>9.3 브라우저에서 양방향 통신을 하는 WebSocket<br>9.4 등장이 기다려지는 HTTP/2.0<br>9.5 웹 서버 상의 파일을 관리하는 WebDAV | 79% |
 
