@@ -123,7 +123,7 @@
 
   <tr>
      <td>25/03/06(목)
-     <td><a href="" target="_blank"><b>17회차</b></td>
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/6df16397adf93b825d0a1e0736874bcdb8dc46e8/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/17%ED%9A%8C%EC%B0%A8" target="_blank"><b>17회차</b></td>
      <td>이수정</td>
   </tr>
 
@@ -131,6 +131,12 @@
      <td>25/03/09(일)
      <td><a href="" target="_blank"><b>18회차</b></td>
      <td>임소연</td>
+  </tr>
+
+ <tr>
+     <td>25/03/11(화)
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/6df16397adf93b825d0a1e0736874bcdb8dc46e8/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/19%ED%9A%8C%EC%B0%A8" target="_blank"><b>19회차</b></td>
+     <td>박지수</td>
   </tr>
       
 </table>
