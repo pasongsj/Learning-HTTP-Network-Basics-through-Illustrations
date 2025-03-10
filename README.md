@@ -1,5 +1,5 @@
 # 그림으로 배우는 Http&Network Basic
-<img src="https://github.com/user-attachments/assets/eac31545-71a0-48ed-af90-9017f71e52f4" width="35%" height="auto" />  
+<img src="https://github.com/user-attachments/assets/1a6eaf2e-212a-4a72-8e3c-9d14bf86fc70" width="35%" height="auto" />  
 <br>
 <br>
 
