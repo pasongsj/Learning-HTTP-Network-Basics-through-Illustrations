@@ -138,6 +138,12 @@
      <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/6df16397adf93b825d0a1e0736874bcdb8dc46e8/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/19%ED%9A%8C%EC%B0%A8" target="_blank"><b>19회차</b></td>
      <td>박지수</td>
   </tr>
+
+  <tr>
+     <td>25/03/12(수)
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/1de3af79958022b9cd617916d4db6d9026b30319/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/20%ED%9A%8C%EC%B0%A8" target="_blank"><b>20회차</b></td>
+     <td>남궁혁</td>
+  </tr>
       
 </table>
 <br>
@@ -182,3 +188,4 @@
 | 25/03/05(수) | 18회 | 제9장 HTTP에 기능을 추가한 프로토콜 | 9.1 HTTP를 기본으로 하는 프로토콜<br>9.2 HTTP의 병목 현상을 해소하는 SPDY<br>9.3 브라우저에서 양방향 통신을 하는 WebSocket<br>9.4 등장이 기다려지는 HTTP/2.0<br>9.5 웹 서버 상의 파일을 관리하는 WebDAV | 79% |
 | 25/03/09(일) | 19회 | 제10장 웹 콘텐츠에서 사용하는 기술 | 10.1 HTML<br>10.2 다이나믹 HTML<br>10.3 웹 애플리케이션<br>10.4 데이터 송신에 이용되는 포맷이나 언어 | 83% |
 | 25/03/11(화) | 20회 | 제11장 웹 공격 기술 | 11.1 웹 공격 기술<br>11.2 출력 값의 이스케이프 미비로 인한 취약성 | 87% |
+| 25/03/12(수) | 21회 | 제11장 웹 공격 기술 | 11.2.2 SQL 인젝션<br>11.2.3 OS 커맨드 인젝션<br>11.2.4 HTTP 헤더 인젝션<br>11.2.5 메일 헤더 인젝션<br>11.2.6 디렉토리 접근 공격<br>11.3 웹 서버의 설정이나 설계 미비로 인한 취약성<br>11.3.1 강제 브라우징 | 94% |
