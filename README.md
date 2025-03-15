@@ -129,7 +129,7 @@
 
   <tr>
      <td>25/03/09(일)
-     <td><a href="" target="_blank"><b>18회차</b></td>
+     <td><a href="https://github.com/songbyhyeok/learning-http-network-basic-through-illustrations/tree/045976f5f29de3467852a001d5f4f6862b6d3be1/%EC%9E%90%EB%A3%8C%EC%8B%A4/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/18%ED%9A%8C%EC%B0%A8" target="_blank"><b>18회차</b></td>
      <td>임소연</td>
   </tr>
 
