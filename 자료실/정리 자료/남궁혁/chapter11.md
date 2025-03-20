@@ -177,13 +177,15 @@
         - CSRF 보호를 위한 주요 방법으로, 서버는 각 요청에 대해 세션 쿠키 외에 고유한 CSRF 토큰을 요구
         - 사용자가 요청을 보낼 때 이 토큰을 포함시켜야 하며, 서버는 요청에 포함된 토큰과 서버에서 예상한 토큰을 비교하여 일치하지 않으면 요청을 거부
     - SameSite 속성
-    ```
-        Set-Cookie: JSESSIONID=randomid; SameSite=Lax; Secure; HttpOnly;
-    ```
-    - 쿠키에 `SameSite` 속성을 설정하여 외부 사이트에서 오는 요청에서쿠키가 포함되지 않도록 할 수 있다.
-    - `SameSite`의 값은 `Strict`, `Lax`, `None`이 있으며, `Strict`는외부 사이트에서 요청이 있을 경우 쿠키를 보내지 않는다.
-    - **Spring Security**는 **세션 쿠키**를 직접 생성하지 않으므로SameSite 속성에 대한 직접적인 지원을 제공하지 않는다.
-    - **WebFlux** 기반 애플리케이션에서 SameSite 속성에 대한 **기본적인지원**을 제공한다.
+        ```
+            Set-Cookie: JSESSIONID=randomid; SameSite=Lax; Secure; HttpOnly;
+        ```
+    
+      - 쿠키에 `SameSite` 속성을 설정하여 외부 사이트에서 오는 요청에서쿠키가 포함되지 않도록 할 수 있다.
+      - `SameSite`의 값은 `Strict`, `Lax`, `None`이 있으며, `Strict`는외부 사이트에서 요청이 있을 경우 쿠키를 보내지 않는다.
+      - **Spring Security**는 **세션 쿠키**를 직접 생성하지 않으므로SameSite 속성에 대한 직접적인 지원을 제공하지 않는다.
+      - **WebFlux** 기반 애플리케이션에서 SameSite 속성에 대한 **기본적인지원**을 제공한다.
+
     - 로그인/로그아웃 보호
         - **로그인/로그아웃 요청**도 CSRF 공격의 대상이 될 수 있다.
         - 이를 방지하기 위해 로그인/로그아웃 요청도 **CSRF 토큰을 포함**시키는 방식으로 보호
